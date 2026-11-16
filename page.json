@@ -1,0 +1,86 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Notlar",
+        "en": "Notes",
+        "ar": "الملاحظات"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 0,
+      "icon": "auto_stories",
+      "desing": {
+        "header": [],
+        "body": [
+          "1xdxx0",
+          "dqjlm7"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Danışan notları ve çarkı taşıdığımız mekânlar (kurgusal).",
+        "en": "Visitor notes and the venues we bring the wheel to (fictional).",
+        "ar": "ملاحظات الزوار والأماكن التي نحمل إليها العجلة (افتراضية)."
+      }
+    },
+    {
+      "id": "e33f3fsgjj",
+      "name": {
+        "tr": "Randevu",
+        "en": "Booking",
+        "ar": "الحجز"
+      },
+      "description": {
+        "tr": "Seans, gün ve saat seçimi (demo).",
+        "en": "Choose a session, day and time (demo).",
+        "ar": "اختيار الجلسة واليوم والوقت (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "x4bx62"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 2,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "0k6rw5",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, saatler ve cümle formu.",
+        "en": "Address, hours and the sentence form.",
+        "ar": "العنوان والساعات ونموذج الجملة."
+      }
+    }
+  ],
+  "desc": []
+}

@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Ay Durağı: burç çarkı sohbetleri, ay döngüsü atölyeleri ve yıldız gözlemi geceleri. Eğlence ve kişisel farkındalık amaçlıdır; kesin öngörü değildir. Demo site; görseller temsilîdir.",
+    "en": "Ay Duragi: zodiac wheel talks, moon cycle workshops and stargazing nights. For fun and self-reflection; not definite predictions. Demo site; images are representative.",
+    "ar": "آي دوراغي: جلسات عجلة الأبراج وورش دورة القمر وليالي رصد النجوم. للترفيه والتأمل الذاتي وليست تنبؤات مؤكدة. موقع تجريبي والصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "burç sohbeti, ay döngüsü, yıldız gözlemi, doğum haritası, astroloji atölyesi",
+    "en": "zodiac talk, moon cycle, stargazing, birth chart, astrology workshop",
+    "ar": "جلسة أبراج، دورة القمر، رصد النجوم، خريطة الميلاد، ورشة فلك"
+  },
+  "category": "Kurumsal",
+  "name": "Ay Durağı",
+  "domain": "burc-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "cormorant-garamond",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#D9B45A",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "11px",
+    "--mx-radius-md": "18px",
+    "--mx-radius-lg": "25px",
+    "--mx-radius-xl": "34px"
+  },
+  "icon": "icon.png"
+}

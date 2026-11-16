@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Notlar",
+    "en": "Notes",
+    "ar": "الملاحظات"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 0,
+  "icon": "auto_stories",
+  "desing": {
+    "header": [],
+    "body": [
+      "1xdxx0",
+      "dqjlm7"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Danışan notları ve çarkı taşıdığımız mekânlar (kurgusal).",
+    "en": "Visitor notes and the venues we bring the wheel to (fictional).",
+    "ar": "ملاحظات الزوار والأماكن التي نحمل إليها العجلة (افتراضية)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Notlar",
+    "en": "Notes",
+    "ar": "الملاحظات"
+  },
+  "keyword": {
+    "tr": "burç yorumu, danışan notu",
+    "en": "zodiac reading, visitor note",
+    "ar": "قراءة الأبراج، ملاحظة زائر"
+  },
+  "text": {},
+  "update": "2026-11-16T22:38:00.716Z",
+  "date": "2026-10-30"
+}

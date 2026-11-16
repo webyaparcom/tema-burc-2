@@ -1,0 +1,46 @@
+{
+  "id": "kalitepolitikamiz",
+  "name": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "description": {
+    "tr": "Kalite politikamız",
+    "en": "Our quality policy",
+    "ar": "سياسة الجودة لدينا"
+  },
+  "keyword": {
+    "tr": "Kalite Politikamız",
+    "en": "quality policy, quality, continuous improvement",
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+  },
+  "path": "kalitepolitikamiz",
+  "icon": "verified",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<h2>Kalite Politikamız</h2>\n<p>Yorumlar kesin öngörü değildir; sağlık, hukuk ve para kararları için uzmana yönlendiririz; seans notları yalnız sizinle paylaşılır.</p>",
+    "en": "<h2>Our quality policy</h2>\n<p>Readings are not definite predictions; for health, legal and money decisions we refer you to an expert; session notes are shared only with you.</p>",
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>القراءات ليست تنبؤات مؤكدة؛ ونحيلك إلى مختص في قرارات الصحة والقانون والمال، وتُشارَك ملاحظات الجلسة معك وحدك.</p>"
+  },
+  "title": {
+    "tr": "Kalite Politikamız",
+    "en": "Quality Policy",
+    "ar": "سياسة الجودة"
+  },
+  "date": "2026-11-16T22:35:10.326Z",
+  "update": "2026-11-16T22:38:00.792Z",
+  "sablonIzi": "acedf6b7c400faec",
+  "sablonIziDil": {
+    "en": "587042c99dce90ca",
+    "ar": "a5348f544603b25e"
+  }
+}

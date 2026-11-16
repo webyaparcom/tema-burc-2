@@ -1,0 +1,29 @@
+{
+  "name": "Ay Durağı",
+  "short_name": "Ay Durağı",
+  "description": "Ay Durağı: burç çarkı sohbetleri, ay döngüsü atölyeleri ve yıldız gözlemi geceleri. Eğlence ve kişisel farkındalık amaçlıdır; kesin öngörü değildir. Demo site; görseller temsilîdir.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D9B45A",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

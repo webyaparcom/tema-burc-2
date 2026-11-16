@@ -1,0 +1,39 @@
+{
+  "id": "e33f3fsgjj",
+  "name": {
+    "tr": "Randevu",
+    "en": "Booking",
+    "ar": "الحجز"
+  },
+  "description": {
+    "tr": "Seans, gün ve saat seçimi (demo).",
+    "en": "Choose a session, day and time (demo).",
+    "ar": "اختيار الجلسة واليوم والوقت (تجريبي)."
+  },
+  "keyword": {
+    "tr": "randevu, seans",
+    "en": "booking, session",
+    "ar": "حجز، جلسة"
+  },
+  "path": "teklif-al",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "x4bx62"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Randevu",
+    "en": "Booking",
+    "ar": "الحجز"
+  },
+  "date": "2026-11-16T22:35:10.557Z",
+  "update": "2026-11-16T22:38:00.731Z"
+}

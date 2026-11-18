@@ -4,12 +4,16 @@
   "description": {
     "tr": "Ay Durağı: burç çarkı sohbetleri, ay döngüsü atölyeleri ve yıldız gözlemi geceleri. Eğlence ve kişisel farkındalık amaçlıdır; kesin öngörü değildir. Demo site; görseller temsilîdir.",
     "en": "Ay Duragi: zodiac wheel talks, moon cycle workshops and stargazing nights. For fun and self-reflection; not definite predictions. Demo site; images are representative.",
-    "ar": "آي دوراغي: جلسات عجلة الأبراج وورش دورة القمر وليالي رصد النجوم. للترفيه والتأمل الذاتي وليست تنبؤات مؤكدة. موقع تجريبي والصور تمثيلية."
+    "ar": "آي دوراغي: جلسات عجلة الأبراج وورش دورة القمر وليالي رصد النجوم. للترفيه والتأمل الذاتي وليست تنبؤات مؤكدة. موقع تجريبي والصور تمثيلية.",
+    "de": "Ay Durağı: Gespräche am Tierkreisrad, Mondzyklus-Workshops und Sternbeobachtungsabende. Zur Unterhaltung und persönlichen Selbstwahrnehmung gedacht; keine feste Vorhersage. Demo-Website; die Bilder sind symbolisch.",
+    "ru": "Ay Durağı: беседы у круга зодиака, мастерские лунного цикла и вечера наблюдения за звёздами. Для развлечения и личной осознанности; это не точное предсказание. Демо-сайт; изображения символические."
   },
   "keyword": {
     "tr": "burç sohbeti, ay döngüsü, yıldız gözlemi, doğum haritası, astroloji atölyesi",
     "en": "zodiac talk, moon cycle, stargazing, birth chart, astrology workshop",
-    "ar": "جلسة أبراج، دورة القمر، رصد النجوم، خريطة الميلاد، ورشة فلك"
+    "ar": "جلسة أبراج، دورة القمر، رصد النجوم، خريطة الميلاد، ورشة فلك",
+    "de": "Sternzeichen-Chat, Mondzyklus, Sternbeobachtung, Geburtshoroskop, Astrologie-Workshop",
+    "ru": "беседа о знаках зодиака, лунный цикл, наблюдение за звёздами, натальная карта, астрологический воркшоп"
   },
   "category": "Kurumsal",
   "name": "Ay Durağı",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

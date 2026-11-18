@@ -3,17 +3,23 @@
   "name": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "description": {
     "tr": "Kalite politikamız",
     "en": "Our quality policy",
-    "ar": "سياسة الجودة لدينا"
+    "ar": "سياسة الجودة لدينا",
+    "de": "Unsere Qualitätspolitik",
+    "ru": "Наша политика качества"
   },
   "keyword": {
     "tr": "Kalite Politikamız",
     "en": "quality policy, quality, continuous improvement",
-    "ar": "سياسة الجودة, الجودة, التحسين المستمر"
+    "ar": "سياسة الجودة, الجودة, التحسين المستمر",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "path": "kalitepolitikamiz",
   "icon": "verified",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Kalite Politikamız</h2>\n<p>Yorumlar kesin öngörü değildir; sağlık, hukuk ve para kararları için uzmana yönlendiririz; seans notları yalnız sizinle paylaşılır.</p>",
     "en": "<h2>Our quality policy</h2>\n<p>Readings are not definite predictions; for health, legal and money decisions we refer you to an expert; session notes are shared only with you.</p>",
-    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>القراءات ليست تنبؤات مؤكدة؛ ونحيلك إلى مختص في قرارات الصحة والقانون والمال، وتُشارَك ملاحظات الجلسة معك وحدك.</p>"
+    "ar": "<h2>سياسة الجودة لدينا</h2>\n<p>القراءات ليست تنبؤات مؤكدة؛ ونحيلك إلى مختص في قرارات الصحة والقانون والمال، وتُشارَك ملاحظات الجلسة معك وحدك.</p>",
+    "de": "<h2>Unsere Qualitätspolitik</h2>\n<p>Deutungen sind keine sicheren Vorhersagen; bei Gesundheits-, Rechts- und Geldentscheidungen verweisen wir an Fachleute; Sitzungsnotizen werden nur mit Ihnen geteilt.</p>",
+    "ru": "<h2>Наша политика качества</h2>\n<p>Толкования не являются точными предсказаниями; по вопросам здоровья, права и финансов мы направляем к специалистам; заметки сеансов передаются только вам.</p>"
   },
   "title": {
     "tr": "Kalite Politikamız",
     "en": "Quality Policy",
-    "ar": "سياسة الجودة"
+    "ar": "سياسة الجودة",
+    "de": "Qualitätspolitik",
+    "ru": "Политика качества"
   },
   "date": "2026-11-16T22:35:10.326Z",
   "update": "2026-11-16T22:38:00.792Z",

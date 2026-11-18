@@ -2,7 +2,9 @@
   "name": {
     "tr": "Notlar",
     "en": "Notes",
-    "ar": "الملاحظات"
+    "ar": "الملاحظات",
+    "de": "Notizen",
+    "ru": "Заметки"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Danışan notları ve çarkı taşıdığımız mekânlar (kurgusal).",
     "en": "Visitor notes and the venues we bring the wheel to (fictional).",
-    "ar": "ملاحظات الزوار والأماكن التي نحمل إليها العجلة (افتراضية)."
+    "ar": "ملاحظات الزوار والأماكن التي نحمل إليها العجلة (افتراضية).",
+    "de": "Gästebuch-Notizen und die Orte, an die wir das Rad bringen (fiktiv).",
+    "ru": "Заметки посетителей и места, куда мы привозим колесо (фиктивно)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Notlar",
     "en": "Notes",
-    "ar": "الملاحظات"
+    "ar": "الملاحظات",
+    "de": "Notizen",
+    "ru": "Заметки"
   },
   "keyword": {
     "tr": "burç yorumu, danışan notu",
     "en": "zodiac reading, visitor note",
-    "ar": "قراءة الأبراج، ملاحظة زائر"
+    "ar": "قراءة الأبراج، ملاحظة زائر",
+    "de": "Horoskopdeutung, Klientennotiz",
+    "ru": "гороскоп, заметка о клиенте"
   },
   "text": {},
   "update": "2026-11-16T22:38:00.716Z",

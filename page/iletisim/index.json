@@ -2,7 +2,9 @@
   "name": {
     "tr": "İletişim",
     "en": "Contact",
-    "ar": "اتصل بنا"
+    "ar": "اتصل بنا",
+    "de": "Kontakt",
+    "ru": "Контакты"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Adres, saatler ve cümle formu.",
     "en": "Address, hours and the sentence form.",
-    "ar": "العنوان والساعات ونموذج الجملة."
+    "ar": "العنوان والساعات ونموذج الجملة.",
+    "de": "Adresse, Zeiten und Satzformular.",
+    "ru": "Адрес, часы работы и форма из фраз."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "İletişim",
     "en": "Contact",
-    "ar": "اتصل بنا"
+    "ar": "اتصل بنا",
+    "de": "Kontakt",
+    "ru": "Контакты"
   },
   "keyword": {
     "tr": "iletişim",
     "en": "contact",
-    "ar": "اتصال"
+    "ar": "اتصال",
+    "de": "Kontakt",
+    "ru": "контакты"
   },
   "text": {},
   "update": "2026-11-16T22:38:00.752Z",

@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Gökyüzünü merakla konuşmak; burç yorumlarını eğlenceli, saygılı ve abartısız bir sohbet olarak sunmak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To talk about the sky with curiosity and offer zodiac readings as a fun, respectful and unexaggerated conversation.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>أن نتحدث عن السماء بفضول، ونقدّم قراءات الأبراج حديثًا ممتعًا ومحترمًا ودون مبالغة.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>أن نتحدث عن السماء بفضول، ونقدّم قراءات الأبراج حديثًا ممتعًا ومحترمًا ودون مبالغة.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Neugierig über den Himmel zu sprechen; Horoskopdeutungen als unterhaltsames, respektvolles und unübertriebenes Gespräch zu präsentieren.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>С любопытством говорить о небе; подавать гороскопы как увлекательную, уважительную и неприукрашенную беседу.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T22:35:10.326Z",
   "update": "2026-11-16T22:38:00.769Z",
